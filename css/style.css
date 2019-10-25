@@ -1,6 +1,19 @@
 #tableroBlanco{
   background: #ffffff;
-  width: 400px;
-  height: 400px;
+  width: 800px;
+  height: 800px;
   border: solid;
+}
+.negro{
+  margin:0px;
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background: #000000;
+}
+.blanco{
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background: #a3f1cc;
 }
