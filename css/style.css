@@ -1,7 +1,7 @@
 #tableroBlanco{
   background: #ffffff;
-  width: 800px;
-  height: 900px;
+  width: 480px;
+  height: 540px;
   border: solid;
 }
 #fila1, #fila2, #fila3, #fila4, #fila5, #fila6, #fila7, #fila8, #fila9{
@@ -10,19 +10,19 @@
 }
 .negro{
   position: relative;
-  width: 100px;
-  height: 100px;
+  width: 60px;
+  height: 60px;
   background: #000000;
 }
 .blanco{
   position: relative;
-  width: 100px;
-  height: 100px;
+  width: 60px;
+  height: 60px;
   background: #a3f1cc;
 }
 .fichaRoja{
-  width: 80px;
-  height: 80px;
+  width: 48px;
+  height: 48px;
   border-radius: 50%;
   background-color: red;
   margin: auto;
@@ -30,8 +30,8 @@
   z-index:1000;
 }
 .fichaNegra{
-  width: 80px;
-  height: 80px;
+  width: 48px;
+  height: 48px;
   border-radius: 50%;
   background-color: blue;
   margin: auto;
